@@ -2,7 +2,9 @@
    <img src="one-unscreen.gif" style="height: 200px; width: 200px;">
 </p>
 
-<table style="margin-left: auto; margin-right: auto;">
+<div align="center">
+
+<table>
   <tr>
     <td><a href="/CREDIT.md">CREDIT</a></td>
     <td><a href="/TOOLS.md">TOOLS & RESOURCES</a></td>
@@ -10,6 +12,7 @@
   </tr>
 </table>
 
+</div>
 <details>
 <summary><b>Why i made this doc ?</b></summary>
   
